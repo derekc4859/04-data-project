@@ -1,0 +1,2 @@
+>Program asks for name of High School
+>User inputs the name
